@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ohio &amp; Michigan NPS Road Trip — Trip Map (color-coded by day)</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  html, body { height: 100%; margin: 0; font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  #bar { background: #2f5233; color: #fff; padding: 10px 14px; }
+  #bar h1 { font-size: 18px; margin: 0 0 2px; }
+  #bar p { margin: 0; font-size: 13px; opacity: .9; }
+  #map { height: calc(100% - 62px); }
+  .pin { border-radius: 50%; color: #fff; font-weight: 700; font-size: 12px; text-align: center; line-height: 24px; width: 24px; height: 24px; border: 2px solid #fff; box-shadow: 0 1px 4px rgba(0,0,0,.45); }
+  .legend { background: rgba(255,255,255,.92); padding: 6px 8px; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,.3); font-size: 12px; line-height: 1.55; }
+  @media (max-width: 700px) { .legend { display: none; } }
+  .legend .chip { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; }
+  .leaflet-popup-content { font-size: 14px; }
+</style>
+</head>
+<body>
+<div id="bar">
+  <h1>Ohio &amp; Michigan NPS Road Trip — Trip Map</h1>
+  <p>Every stop, color-coded by day. Use the layer filter (top right) to show one day at a time. Tap a pin for the stop name and a Google Maps link. Tuesday is the Cuyahoga day (Beaver Marsh sunrise to Ledges sunset), and the West Bloomfield pin is the township only — his aunt's address is kept off this public map.</p>
+</div>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+var COLORS = { day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e" };
+var DAYLABEL = { day1: "Day 1 · Mon Nov 23", day2: "Day 2 · Tue Nov 24", day3: "Day 3 · Wed Nov 25" };
+var STOPS = [
+  // Day 1
+  { n: "1 · Rental car — Enterprise, Lombard (Mon 9:00 AM pickup)", d: "day1", t: "920 E Roosevelt Rd, Lombard, IL · Acura Integra or similar · unlimited mileage · $143.42 total · return Wed 6:00 PM (see Day 3 pin 2)", lat: 41.86102, lng: -87.99384, q: "Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL" },
+  { n: "2 · First Ladies National Historic Site, Canton — OPTIONAL exterior only", d: "day1", t: "Saxton–McKinley House, 205 S Market Ave · CLOSED Mondays (Nov–Apr: Thu–Sat only) · photo stop only if the drive runs early · no tour, no stamp", lat: 40.79644, lng: -81.37672, q: "First+Ladies+National+Historic+Site+Canton+OH" },
+  { n: "3 · Hotel option A — Motel 6 Richfield (Mon night, TO BOOK)", d: "day1", t: "5171 Brecksville Rd, Richfield · ~$52/night (checked $103.68 / 2 nights, refundable) · closest to Beaver Marsh for the sunrise start", lat: 41.27508, lng: -81.62641, q: "Motel+6+Richfield+OH+5171+Brecksville+Rd" },
+  { n: "4 · Hotel option B — Econo Lodge, Streetsboro (Mon night, TO BOOK)", d: "day1", t: "9789 State Route 14, Streetsboro · ~$63/night (checked $125.37 / 2 nights) · 7.8/10 · east side, closer to the Ledges", lat: 41.25111, lng: -81.36521, q: "Econo+Lodge+9789+State+Route+14+Streetsboro+OH" },
+  { n: "5 · James A. Garfield NHS, Mentor — STATUS PIN, not scheduled", d: "day1", t: "8095 Mentor Ave · Nov–Apr open Fri–Sun only, so closed Mon–Wed this trip · grounds/exterior only · no tour, no stamp — save for a spring Fri–Sun trip", lat: 41.66395, lng: -81.34783, q: "James+A+Garfield+National+Historic+Site+Mentor+OH" },
+  { n: "6 · Perry's Victory & International Peace Memorial, Put-in-Bay — STATUS PIN, not scheduled", d: "day1", t: "South Bass Island · visitor center's last 2026 day was Oct 26 · plaza/deck closed 2026–27 for rehab · island access only via Miller Ferry (pin 7)", lat: 41.65394, lng: -82.81150, q: "Perrys+Victory+and+International+Peace+Memorial+Put-in-Bay+OH" },
+  { n: "7 · Miller Ferry, Catawba dock — STATUS PIN", d: "day1", t: "Runs Nov 2–25 on a reduced schedule, last mainland departure ~5:00 PM · the only way to Perry's Victory this week · does not fit this trip's clock", lat: 41.51170, lng: -82.85130, q: "Miller+Ferry+Catawba+Island+Port+Clinton+OH" },
+  // Day 2
+  { n: "1 · Beaver Marsh — SUNRISE 7:24 AM", d: "day2", t: "Ira Trailhead · ~0.6 mi boardwalk on the Towpath · be there ~7:10 AM · herons, muskrats, beavers at dawn", lat: 41.18823, lng: -81.58149, q: "Beaver+Marsh+Ira+Trailhead+Cuyahoga+Valley+National+Park" },
+  { n: "2 · Everett Covered Bridge", d: "day2", t: "~8:15 AM · 2370 Everett Rd, Peninsula · Summit County's only remaining covered bridge, over Furnace Run · short walk from the lot", lat: 41.20370, lng: -81.57260, q: "Everett+Covered+Bridge+Peninsula+OH" },
+  { n: "3 · Boston Mill Visitor Center — CUYAHOGA STAMP", d: "day2", t: "9:30 AM at opening · 6947 Riverview Rd · open daily 9:30 AM–5 PM · passport stamp + park map here", lat: 41.26331, lng: -81.55883, q: "Boston+Mill+Visitor+Center+Cuyahoga+Valley" },
+  { n: "4 · Brandywine Falls + Gorge Loop", d: "day2", t: "~10:30 AM · 60-ft falls · boardwalk overlooks · Gorge Loop 1.5 mi, ~1 hr", lat: 41.27694, lng: -81.53806, q: "Brandywine+Falls+Cuyahoga+Valley+National+Park" },
+  { n: "5 · Peninsula village — lunch + buffer", d: "day2", t: "Midday · Lock 29 / Towpath · Peninsula Depot · Trail Mix park store (1600 W Mill St) · Fisher's Café or Winking Lizard from 11 AM", lat: 41.24211, lng: -81.54887, q: "Peninsula+OH" },
+  { n: "6 · Ledges Trail — SUNSET 5:00 PM", d: "day2", t: "Start the 2.2 mi loop ~3:30 PM from 405 Truxell Rd · Ledges Overlook faces west · headlamp for the walk out · area closes at dusk", lat: 41.22365, lng: -81.51017, q: "Ledges+Trailhead+Cuyahoga+Valley+National+Park" },
+  { n: "7 · Aunt's — West Bloomfield, MI (Tue night, township pin)", d: "day2", t: "Night of Tue Nov 24 · ~2 hrs 45 mins drive from the valley after sunset · address kept off this public map", lat: 42.55600, lng: -83.36700, q: "West+Bloomfield+Township+MI" },
+  // Day 3
+  { n: "1 · River Raisin National Battlefield Park — STAMP", d: "day3", t: "~10:00 AM · 333 N Dixie Hwy, Monroe, MI · visitor center ~10 AM–5 PM · passport stamp · ~1 hr south of West Bloomfield · leave ~11:30 AM ET", lat: 41.91250, lng: -83.37920, q: "River+Raisin+National+Battlefield+Park+Monroe+MI" },
+  { n: "2 · Rental return — Enterprise, Lombard by 6:00 PM CT", d: "day3", t: "Monroe → Lombard ~285 mi / ~4 hrs 30 mins, +1 hr gained to Central · planned arrival ~4:00–4:30 PM CT · branch CLOSES 6:00 PM — after-hours key-drop is the fallback", lat: 41.86102, lng: -87.99384, q: "Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL" }
+];
+var map = L.map("map");
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "&copy; OpenStreetMap contributors" }).addTo(map);
+var layers = {};
+Object.keys(DAYLABEL).forEach(function (k) { layers[k] = L.layerGroup().addTo(map); });
+var bounds = [];
+STOPS.forEach(function (s) {
+  var num = s.n.split(" ")[0];
+  var icon = L.divIcon({ className: "", html: '<div class="pin" style="background:' + COLORS[s.d] + '">' + num + '</div>', iconSize: [24, 24], iconAnchor: [12, 12] });
+  var html = "<b>" + s.n + "</b><br>" + s.t + '<br><a href="https://www.google.com/maps/search/?api=1&query=' + s.q + '" target="_blank" rel="noopener">Open in Google Maps</a>';
+  L.marker([s.lat, s.lng], { icon: icon }).bindPopup(html).addTo(layers[s.d]);
+  bounds.push([s.lat, s.lng]);
+});
+var overlays = {};
+Object.keys(DAYLABEL).forEach(function (k) { overlays[DAYLABEL[k]] = layers[k]; });
+L.control.layers(null, overlays, { collapsed: window.innerWidth < 700 }).addTo(map);
+var legend = L.control({ position: "bottomleft" });
+legend.onAdd = function () {
+  var div = L.DomUtil.create("div", "legend");
+  div.innerHTML = Object.keys(DAYLABEL).map(function (k) { return '<span class="chip" style="background:' + COLORS[k] + '"></span>' + DAYLABEL[k]; }).join("<br>");
+  return div;
+};
+legend.addTo(map);
+map.fitBounds(bounds, { padding: [30, 30] });
+</script>
+</body>
+</html>
