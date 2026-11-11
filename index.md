@@ -192,3 +192,7 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + hotel options + the
 ---
 
 Part of [Hari Pages](https://harikrishnad1997.github.io/hari-pages/) — all of Harikrishna Dev's GitHub Pages sites in one place.
+
+[↑ Back to top](#top)
+
+<a href="#top" title="Back to top" style="position:fixed; right:16px; bottom:16px; z-index:99; background:#1d6fb8; color:#fff; padding:10px 16px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600; box-shadow:0 2px 6px rgba(0,0,0,.3);">↑ Top</a>
