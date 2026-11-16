@@ -40,11 +40,14 @@ Five NPS sites from the map, one full ranger-planned day in Cuyahoga Valley, and
 - Confirmation number is in the email, not on this public page
 - **⚠️ The Lombard branch closes at 6:00 PM on Wednesday** — the return is right at closing. Day 3 is timed to land in Lombard by ~4:00–4:30 PM CT with buffer; if the day runs late, the after-hours key-drop is the fallback, and photo-documenting the drop (odometer + fuel dash photo, exterior walk-around) is the proof of condition and time.
 
-### 🏨 Hotel — TO BOOK: one night near the park, Mon Nov 23
-Only Monday night is a hotel night — Tuesday night is at his aunt's in West Bloomfield. Two checked options (Expedia, checked Nov 10, 2026; both prices were quoted for 2 nights, so a Mon-only stay is roughly half):
-- **Motel 6 Richfield** — 5171 Brecksville Rd, Richfield · **$103.68 / 2 nights (~$52/night)**, refundable at that price · 6.6/10 (961 reviews) · no breakfast. Closest budget cluster to Beaver Marsh (~10 mins) — best for Tuesday's 7:24 AM sunrise start.
-- **Econo Lodge Cleveland Southeast – Kent (Streetsboro)** — 9789 State Route 14, Streetsboro · **$125.37 / 2 nights (~$63/night)**, refundable rate $132.31 / 2 nights · 7.8/10 (1,001 reviews) · no breakfast. East side — closer to the Ledges, ~25–30 mins to Beaver Marsh.
-- Better-room fallback if wanted: Hampton Inn Stow, $271.38 / 2 nights, breakfast included, 8.8/10.
+### 🏨 Hotel — BOOKED: Fairfield Inn & Suites Akron Fairlawn, Mon Nov 23
+Only Monday night is a hotel night — Tuesday night is at his aunt's in West Bloomfield. Booked by Rajashree via Hotels.com (forwarded Nov 15, 2026):
+- **Fairfield Inn & Suites Akron Fairlawn** — 208 Springside Dr, Akron, OH 44333 · (330) 665-0641. It's on the trip map below (Day 1 pin 3).
+- Check-in **Mon Nov 23, 3:00 PM** · check-out **Tue Nov 24, 12:00 PM**
+- Room, 2 Queen Beds (Mobility Accessible, Bathtub) · **2 adults**
+- **$111.68 total** ($96.90 + $14.78 taxes), paid Nov 16, 2026
+- **Non-refundable** — unlike the $57.60 refundable Motel 6 Richfield option priced Nov 14, this one can't be cancelled for a refund. (Confirmation number is in the email, not on this public page.)
+- Fairlawn is on the Akron side, southwest of the park — ~25 mins (estimate) to Beaver Marsh for Tuesday's 7:24 AM sunrise start.
 
 ### 🏠 Tuesday night — aunt's, West Bloomfield, MI
 Overnight at his aunt's in West Bloomfield, MI on **Tue Nov 24** (address kept off this public page — the map pin is the township, not the house). Wednesday morning runs south from there to River Raisin before the drive home.
@@ -131,15 +134,15 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + hotel options + the
 
 - **9:00 AM CT — Pickup: [Enterprise, Lombard](https://www.google.com/maps/search/?api=1&query=Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL)** (920 E Roosevelt Rd). Fuel, coffee, on the road by ~9:15.
 - **~9:15 AM CT — The drive east:** I-355 / I-88 to the Ohio Turnpike (I-80) east. Lombard → the Peninsula / Richfield area is **~351 mi / ~5 hrs 45 mins (estimate)**, and Ohio is on Eastern Time — you lose an hour on the clock.
-- **~4:00–4:30 PM ET — Arrive in the valley.** Check in at the hotel (Richfield or Streetsboro — see Bookings).
+- **~4:00–4:30 PM ET — Arrive in the valley.** Check in at the Fairfield Inn & Suites Akron Fairlawn (see Bookings).
 - **Optional detour — [First Ladies National Historic Site, Canton](https://www.google.com/maps/search/?api=1&query=First+Ladies+National+Historic+Site+Canton+OH)** (Saxton–McKinley House, 205 S Market Ave). Canton is ~35–40 mins south of the park, so this is +~1 hr on the day. **The site is closed Mondays** (Nov–Apr it's Thu–Sat only), so this would be an exterior / photo stop only — no museum, no house tour, no stamp. Only if the drive is running early and the light holds.
-- **Evening — early night.** Nothing planned after check-in: Tuesday starts before sunrise. The two other closed sites, Garfield and Perry's Victory, are on the map as status pins (Day 1 pins 5–7) — see [Know before you go](#know-before-you-go) before improvising a detour to either.
+- **Evening — early night.** Nothing planned after check-in: Tuesday starts before sunrise. The two other closed sites, Garfield and Perry's Victory, are on the map as status pins (Day 1 pins 4–6) — see [Know before you go](#know-before-you-go) before improvising a detour to either.
 
 ## Day 2 — Tue Nov 24: the ranger's Cuyahoga day, then West Bloomfield {#day-2}
 
 *The Park Ranger's list in the ranger's order, bookended by sunrise and sunset — with three hikes folded into the gaps (Furnace Run, Blue Hen Falls, Deep Lock Quarry), ~9.6 mi of hiking in all. Daylight in Peninsula: sunrise 7:24 AM, sunset 5:00 PM ET.*
 
-- **~7:10 AM — [Beaver Marsh](https://www.google.com/maps/search/?api=1&query=Beaver+Marsh+Ira+Trailhead+Cuyahoga+Valley) at sunrise (7:24 AM).** Ira Trailhead, ~0.6 mi flat boardwalk / Towpath walk. Dawn is when the marsh is most alive — herons, muskrats, beavers. From the Richfield hotels this is ~10 mins; from Streetsboro ~25–30 mins.
+- **~7:10 AM — [Beaver Marsh](https://www.google.com/maps/search/?api=1&query=Beaver+Marsh+Ira+Trailhead+Cuyahoga+Valley) at sunrise (7:24 AM).** Ira Trailhead, ~0.6 mi flat boardwalk / Towpath walk. Dawn is when the marsh is most alive — herons, muskrats, beavers. From the Fairfield Inn in Fairlawn this is ~25 mins (estimate).
 - **~8:05 AM — [Everett Covered Bridge](https://www.google.com/maps/search/?api=1&query=Everett+Covered+Bridge+2370+Everett+Rd+Peninsula+OH) + the Furnace Run Loop** (2370 Everett Rd, Peninsula). Summit County's only remaining covered bridge, over Furnace Run — and from the same lot, hike the **Furnace Run Loop (1.9 mi, 246 ft, ~45–60 mins)** along the creek instead of just photographing the bridge. It sits just south of Beaver Marsh, and Boston Mill is ~10 mins from the lot.
 - **9:30 AM — [Boston Mill Visitor Center](https://www.google.com/maps/search/?api=1&query=Boston+Mill+Visitor+Center+Cuyahoga+Valley)** (6947 Riverview Rd) — **at opening, for the Cuyahoga Valley passport stamp.** Open daily 9:30 AM–5 PM (the stamp desk runs all day, so a late start here costs nothing). Grab the park newspaper / map while you're there.
 - **~9:45 AM — [Blue Hen Falls](https://www.google.com/maps/search/?api=1&query=Blue+Hen+Falls+Cuyahoga+Valley+National+Park)** — a 15-ft falls on Spring Creek, **3 mi round trip from Boston Mill via the Buckeye Trail (~580 ft)**, done by ~11:15. It was in the original best-hikes set; the old midday gap is what makes room for it.
