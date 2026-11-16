@@ -124,7 +124,7 @@ Backup: the [National Weather Service forecast for Peninsula](https://forecast.w
 
 ## Trip map — color-coded by day {#trip-map}
 
-Every stop on one map: 🔵 **Day 1** (Mon, the drive east + hotel options + the two closed sites' status pins) · 🟠 **Day 2** (Tue, the ranger's Cuyahoga day + the night drive to West Bloomfield) · 🟢 **Day 3** (Wed, River Raisin + the drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
+Every stop on one map: 🔵 **Day 1** (Mon, the drive east + the booked hotel + the two closed sites' status pins) · 🟠 **Day 2** (Tue, the ranger's Cuyahoga day + the night drive to West Bloomfield) · 🟢 **Day 3** (Wed, River Raisin + the drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="Ohio and Michigan road trip map — stops color-coded by day"></iframe>
 
