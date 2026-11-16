@@ -42,7 +42,7 @@ Five NPS sites from the map, one full ranger-planned day in Cuyahoga Valley, and
 
 ### 🏨 Hotel — BOOKED: Fairfield Inn & Suites Akron Fairlawn, Mon Nov 23
 Only Monday night is a hotel night — Tuesday night is at his aunt's in West Bloomfield. Booked by Rajashree via Hotels.com (forwarded Nov 15, 2026):
-- **Fairfield Inn & Suites Akron Fairlawn** — 208 Springside Dr, Akron, OH 44333 · (330) 665-0641. It's on the trip map below (Day 1 pin 3).
+- **[Fairfield Inn & Suites Akron Fairlawn](https://www.google.com/maps/search/?api=1&query=Fairfield+Inn+Suites+Akron+Fairlawn+208+Springside+Dr+Akron+OH)** — 208 Springside Dr, Akron, OH 44333 · (330) 665-0641. It's on the trip map below (Day 1 pin 3).
 - Check-in **Mon Nov 23, 3:00 PM** · check-out **Tue Nov 24, 12:00 PM**
 - Room, 2 Queen Beds (Mobility Accessible, Bathtub) · **2 adults**
 - **$111.68 total** ($96.90 + $14.78 taxes), paid Nov 16, 2026
