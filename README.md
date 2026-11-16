@@ -11,9 +11,9 @@ A three-day road-trip itinerary from the Chicago suburbs to Cuyahoga Valley Nati
 
 | Day | Plan |
 |---|---|
-| **Mon Nov 23** | 9:00 AM Enterprise pickup in Lombard → ~351 mi / ~5 hrs 45 mins east on the Ohio Turnpike → arrive the valley ~4:00–4:30 PM ET → optional First Ladies (Canton) exterior-only detour if running early (closed Mondays) → Fairfield Inn & Suites Akron Fairlawn (BOOKED) → early night |
-| **Tue Nov 24** | **The ranger's Cuyahoga day, filled out (~9.6 mi hiking):** Beaver Marsh at sunrise (7:24 AM) → Everett Covered Bridge + Furnace Run Loop (1.9 mi) → Boston Mill Visitor Center at 9:30 AM opening for the stamp → Blue Hen Falls (3 mi) → Brandywine Falls + Gorge Loop → Peninsula village for lunch (Lock 29, Trail Mix store) → Deep Lock Quarry (1.4 mi, the flex stop) → Ledges Trail timed for sunset at Ledges Overlook (5:00 PM) → drive ~2 hrs 45 mins to his aunt's in West Bloomfield for the night |
-| **Wed Nov 25** | Leave West Bloomfield ~8:30–9:00 AM → **River Raisin National Battlefield Park**, Monroe ~10:00 AM (stamp) → leave ~11:30 AM ET → ~285 mi home → Enterprise Lombard return by ~4:00–4:30 PM CT (branch closes 6:00 PM) → home for Thanksgiving |
+| **Mon Nov 23** | 9:00 AM Enterprise pickup in Lombard → 375 mi / 5 hrs 42 mins east on the Ohio Turnpike (Google Maps) → arrive Fairlawn ~4:00 PM ET → optional First Ladies (Canton) exterior-only detour if running early (closed Mondays) → Fairfield Inn & Suites Akron Fairlawn (BOOKED) → early night |
+| **Tue Nov 24** | **The ranger's Cuyahoga day, filled out (~9.6 mi hiking):** Beaver Marsh at sunrise (7:24 AM) → Everett Covered Bridge + Furnace Run Loop (1.9 mi) → Boston Mill Visitor Center at 9:30 AM opening for the stamp → Blue Hen Falls (3 mi) → Brandywine Falls + Gorge Loop → Peninsula village for lunch (Lock 29, Trail Mix store) → Deep Lock Quarry (1.4 mi, the flex stop) → Ledges Trail timed for sunset at Ledges Overlook (5:00 PM) → drive 195 mi / 2 hrs 58 mins to his aunt's in West Bloomfield for the night (arrive ~8:45–9:00 PM ET) |
+| **Wed Nov 25** | Leave West Bloomfield ~8:30–9:00 AM → **River Raisin National Battlefield Park**, Monroe ~10:00 AM (stamp) → leave ~11:30 AM ET → 285 mi / 4 hrs 15 mins home → Enterprise Lombard return by ~3:30–4:00 PM CT (branch closes 6:00 PM) → home for Thanksgiving |
 
 ## Passport stamps
 

@@ -47,7 +47,7 @@ Only Monday night is a hotel night — Tuesday night is at his aunt's in West Bl
 - Room, 2 Queen Beds (Mobility Accessible, Bathtub) · **2 adults**
 - **$111.68 total** ($96.90 + $14.78 taxes), paid Nov 16, 2026
 - **Non-refundable** — unlike the $57.60 refundable Motel 6 Richfield option priced Nov 14, this one can't be cancelled for a refund. (Confirmation number is in the email, not on this public page.)
-- Fairlawn is on the Akron side, southwest of the park — ~25 mins (estimate) to Beaver Marsh for Tuesday's 7:24 AM sunrise start.
+- Fairlawn is on the Akron side, southwest of the park — ~14 mins to Beaver Marsh for Tuesday's 7:24 AM sunrise start (6 mi).
 
 ### 🏠 Tuesday night — aunt's, West Bloomfield, MI
 Overnight at his aunt's in West Bloomfield, MI on **Tue Nov 24** (address kept off this public page — the map pin is the township, not the house). Wednesday morning runs south from there to River Raisin before the drive home.
@@ -133,8 +133,8 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + the booked hotel + 
 *Driving only, by design — the park day is Tuesday.*
 
 - **9:00 AM CT — Pickup: [Enterprise, Lombard](https://www.google.com/maps/search/?api=1&query=Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL)** (920 E Roosevelt Rd). Fuel, coffee, on the road by ~9:15.
-- **~9:15 AM CT — The drive east:** I-355 / I-88 to the Ohio Turnpike (I-80) east. Lombard → the Peninsula / Richfield area is **~351 mi / ~5 hrs 45 mins (estimate)**, and Ohio is on Eastern Time — you lose an hour on the clock.
-- **~4:00–4:30 PM ET — Arrive in the valley.** Check in at the Fairfield Inn & Suites Akron Fairlawn (see Bookings).
+- **~9:15 AM CT — The drive east:** I-355 / I-88 to the Ohio Turnpike (I-80) east. Lombard → Fairlawn is **375 mi / 5 hrs 42 mins (Google Maps, via I-80 E)**, and Ohio is on Eastern Time — you lose an hour on the clock.
+- **~4:00 PM ET — Arrive in Fairlawn.** Check in at the Fairfield Inn & Suites Akron Fairlawn (see Bookings) — 9:15 AM CT out is 10:15 AM ET, plus 5 hrs 42 mins, plus a fuel stop.
 - **Optional detour — [First Ladies National Historic Site, Canton](https://www.google.com/maps/search/?api=1&query=First+Ladies+National+Historic+Site+Canton+OH)** (Saxton–McKinley House, 205 S Market Ave). Canton is ~35–40 mins south of the park, so this is +~1 hr on the day. **The site is closed Mondays** (Nov–Apr it's Thu–Sat only), so this would be an exterior / photo stop only — no museum, no house tour, no stamp. Only if the drive is running early and the light holds.
 - **Evening — early night.** Nothing planned after check-in: Tuesday starts before sunrise. The two other closed sites, Garfield and Perry's Victory, are on the map as status pins (Day 1 pins 4–6) — see [Know before you go](#know-before-you-go) before improvising a detour to either.
 
@@ -142,7 +142,7 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + the booked hotel + 
 
 *The Park Ranger's list in the ranger's order, bookended by sunrise and sunset — with three hikes folded into the gaps (Furnace Run, Blue Hen Falls, Deep Lock Quarry), ~9.6 mi of hiking in all. Daylight in Peninsula: sunrise 7:24 AM, sunset 5:00 PM ET.*
 
-- **~7:10 AM — [Beaver Marsh](https://www.google.com/maps/search/?api=1&query=Beaver+Marsh+Ira+Trailhead+Cuyahoga+Valley) at sunrise (7:24 AM).** Ira Trailhead, ~0.6 mi flat boardwalk / Towpath walk. Dawn is when the marsh is most alive — herons, muskrats, beavers. From the Fairfield Inn in Fairlawn this is ~25 mins (estimate).
+- **~7:10 AM — [Beaver Marsh](https://www.google.com/maps/search/?api=1&query=Beaver+Marsh+Ira+Trailhead+Cuyahoga+Valley) at sunrise (7:24 AM).** Ira Trailhead, ~0.6 mi flat boardwalk / Towpath walk. Dawn is when the marsh is most alive — herons, muskrats, beavers. From the Fairfield Inn in Fairlawn this is ~14 mins (6 mi).
 - **~8:05 AM — [Everett Covered Bridge](https://www.google.com/maps/search/?api=1&query=Everett+Covered+Bridge+2370+Everett+Rd+Peninsula+OH) + the Furnace Run Loop** (2370 Everett Rd, Peninsula). Summit County's only remaining covered bridge, over Furnace Run — and from the same lot, hike the **Furnace Run Loop (1.9 mi, 246 ft, ~45–60 mins)** along the creek instead of just photographing the bridge. It sits just south of Beaver Marsh, and Boston Mill is ~10 mins from the lot.
 - **9:30 AM — [Boston Mill Visitor Center](https://www.google.com/maps/search/?api=1&query=Boston+Mill+Visitor+Center+Cuyahoga+Valley)** (6947 Riverview Rd) — **at opening, for the Cuyahoga Valley passport stamp.** Open daily 9:30 AM–5 PM (the stamp desk runs all day, so a late start here costs nothing). Grab the park newspaper / map while you're there.
 - **~9:45 AM — [Blue Hen Falls](https://www.google.com/maps/search/?api=1&query=Blue+Hen+Falls+Cuyahoga+Valley+National+Park)** — a 15-ft falls on Spring Creek, **3 mi round trip from Boston Mill via the Buckeye Trail (~580 ft)**, done by ~11:15. It was in the original best-hikes set; the old midday gap is what makes room for it.
@@ -150,7 +150,7 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + the booked hotel + 
 - **~12:45 PM — [Peninsula village](https://www.google.com/maps/search/?api=1&query=Peninsula+OH+village)** for lunch (~45 mins): a preserved 19th-century canal town inside the park — **Lock 29** and the Towpath, the Peninsula Depot, **Trail Mix Peninsula** (the Conservancy's park store, 1600 W Mill St), the G.A.R. Hall and Bronson Church exteriors on Main St. Lunch: Fisher's Café & Pub or the Winking Lizard Tavern, both open from 11 AM.
 - **~2:00 PM — [Deep Lock Quarry](https://www.google.com/maps/search/?api=1&query=Deep+Lock+Quarry+Metro+Park+Peninsula+OH)** (5779 Riverview Rd, Peninsula — Summit Metro Parks, ~5 mins from the village). The **Quarry Trail (~1.4 mi)**: quarry walls, discarded millstones and Lock 28 of the Ohio & Erie Canal. The one non-NPS stop of the day — and the day's flex stop: if anything has run long, this is the one to drop; it's last and closest to the Ledges.
 - **~3:30 PM — [Ledges Trail](https://www.google.com/maps/search/?api=1&query=Ledges+Trailhead+Cuyahoga+Valley+National+Park)** (405 Truxell Rd) — start the **2.2 mi loop** in late afternoon and time **Ledges Overlook for sunset at 5:00 PM**: a west-facing rocky clearing, one of the best sunset views in the park. **Bring a headlamp** — the Ledges area closes at dusk and the walk back to the car will be in twilight.
-- **~5:45–6:00 PM — Drive to West Bloomfield, MI.** Valley → West Bloomfield is ~2 hrs 45 mins (estimate) via the Ohio Turnpike / I-75. Arrive at his aunt's ~8:30–9:00 PM ET. Night there.
+- **~5:45–6:00 PM — Drive to West Bloomfield, MI.** Ledges → West Bloomfield is **195 mi / 2 hrs 58 mins (Google Maps, via the Ohio Turnpike / I-75 / I-275)**. Arrive at his aunt's ~8:45–9:00 PM ET. Night there.
 
 ## Day 3 — Wed Nov 25: River Raisin, then home {#day-3}
 
@@ -158,7 +158,7 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + the booked hotel + 
 
 - **~8:30–9:00 AM — Leave West Bloomfield** and drive ~1 hr south to Monroe, MI.
 - **~10:00 AM — [River Raisin National Battlefield Park](https://www.google.com/maps/search/?api=1&query=River+Raisin+National+Battlefield+Park+Monroe+MI)** (333 N Dixie Hwy, Monroe). Visitor center open daily (~10 AM–5 PM in winter) — **passport stamp here**, plus the War of 1812 battlefield story ("Remember the Raisin"). Budget ~1–1.5 hrs.
-- **~11:30 AM ET — Leave Monroe for home.** Monroe → Lombard is ~285 mi / ~4 hrs 30 mins (estimate), and you gain the hour back crossing into Central Time — that puts Lombard at ~3:00–3:30 PM CT before stops; with a fuel / food stop, plan on **~4:00–4:30 PM CT**.
+- **~11:30 AM ET — Leave Monroe for home.** Monroe → Lombard is **285 mi / 4 hrs 15 mins (Google Maps, via the Ohio Turnpike / Indiana Toll Road)**, and you gain the hour back crossing into Central Time — that puts Lombard at ~2:45 PM CT before stops; with a fuel / food stop, plan on **~3:30–4:00 PM CT**.
 - **By 6:00 PM CT — Return: Enterprise, Lombard.** The branch closes at 6:00 PM, so the timed arrival above is the plan, not the after-hours key-drop. If traffic eats the buffer and the key-drop becomes necessary, photo-document the drop (dash, walk-around, car in its spot).
 - **Evening — home for Thanksgiving.** 🦃
 
@@ -179,7 +179,7 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + the booked hotel + 
 - **Brandywine Falls and the Ledges close dusk–dawn.** The sunset plan works because you're walking out at dusk, not starting after it — headlamp in the pack.
 - **Towpath note:** the Boston Trailhead → Lock 29 Towpath closure ran Aug 24–Nov 20, 2026, so it's over before this trip — the Towpath is whole again for the Beaver Marsh and Peninsula walks.
 - **Time zones:** Ohio and Michigan are Eastern; home is Central. Monday's drive "loses" an hour, Wednesday's drive home gains it back — the Day 3 timing already accounts for it.
-- **Wednesday is Thanksgiving Eve** — the busiest driving afternoon of the year. The plan's ~1.5–2 hr buffer into the 6:00 PM Lombard return is there for exactly that; don't spend it in Monroe.
+- **Wednesday is Thanksgiving Eve** — the busiest driving afternoon of the year. The plan's ~2–2.5 hr buffer into the 6:00 PM Lombard return is there for exactly that; don't spend it in Monroe.
 
 ## Packing checklist {#packing-checklist}
 
