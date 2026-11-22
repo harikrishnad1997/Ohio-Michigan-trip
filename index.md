@@ -22,7 +22,7 @@ Five NPS sites from the map, one full ranger-planned day in Cuyahoga Valley, and
 - [Bookings](#bookings)
 - [Weather in the valley — live forecast](#weather)
 - [Trip map — color-coded by day](#trip-map)
-- [Day 1 — Mon Nov 23: Lombard → Cuyahoga Valley](#day-1)
+- [Day 1 — Mon Nov 23: Lombard → Cleveland → Fairlawn](#day-1)
 - [Day 2 — Tue Nov 24: the ranger's Cuyahoga day, then West Bloomfield](#day-2)
 - [Day 3 — Wed Nov 25: River Raisin, then home](#day-3)
 - [Stamp checklist](#stamp-checklist)
@@ -124,19 +124,19 @@ Backup: the [National Weather Service forecast for Peninsula](https://forecast.w
 
 ## Trip map — color-coded by day {#trip-map}
 
-Every stop on one map: 🔵 **Day 1** (Mon, the drive east + the booked hotel + the two closed sites' status pins) · 🟠 **Day 2** (Tue, the ranger's Cuyahoga day + the night drive to West Bloomfield) · 🟢 **Day 3** (Wed, River Raisin + the drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
+Every stop on one map: 🔵 **Day 1** (Mon, the drive east + Rocky River Nature Center in Cleveland + the booked hotel + the two closed sites' status pins) · 🟠 **Day 2** (Tue, the ranger's Cuyahoga day + the night drive to West Bloomfield) · 🟢 **Day 3** (Wed, River Raisin + the drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="Ohio and Michigan road trip map — stops color-coded by day"></iframe>
 
-## Day 1 — Mon Nov 23: Lombard → Cuyahoga Valley {#day-1}
+## Day 1 — Mon Nov 23: Lombard → Cleveland → Fairlawn {#day-1}
 
-*Driving only, by design — the park day is Tuesday.*
+*Drive east to Cleveland for the afternoon, then the hotel — the park day is Tuesday.*
 
 - **9:00 AM CT — Pickup: [Enterprise, Lombard](https://www.google.com/maps/search/?api=1&query=Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL)** (920 E Roosevelt Rd). Fuel, coffee, on the road by ~9:15.
-- **~9:15 AM CT — The drive east:** I-355 / I-88 to the Ohio Turnpike (I-80) east. Lombard → Fairlawn is **375 mi / 5 hrs 42 mins (Google Maps, via I-80 E)**, and Ohio is on Eastern Time — you lose an hour on the clock.
-- **~4:00 PM ET — Arrive in Fairlawn.** Check in at the Fairfield Inn & Suites Akron Fairlawn (see Bookings) — 9:15 AM CT out is 10:15 AM ET, plus 5 hrs 42 mins, plus a fuel stop.
-- **Optional detour — [First Ladies National Historic Site, Canton](https://www.google.com/maps/search/?api=1&query=First+Ladies+National+Historic+Site+Canton+OH)** (Saxton–McKinley House, 205 S Market Ave). Canton is ~35–40 mins south of the park, so this is +~1 hr on the day. **The site is closed Mondays** (Nov–Apr it's Thu–Sat only), so this would be an exterior / photo stop only — no museum, no house tour, no stamp. Only if the drive is running early and the light holds.
-- **Evening — early night.** Nothing planned after check-in: Tuesday starts before sunrise. The two other closed sites, Garfield and Perry's Victory, are on the map as status pins (Day 1 pins 4–6) — see [Know before you go](#know-before-you-go) before improvising a detour to either.
+- **~9:15 AM CT — The drive east:** I-355 / I-88 to the Ohio Turnpike (I-80) east, then I-480 W to Cleveland's west side. Lombard → Fairlawn is **375 mi / 5 hrs 42 mins (Google Maps, via I-80 E)**, and Ohio is on Eastern Time — you lose an hour on the clock.
+- **~3:30 PM ET — [Rocky River Nature Center](https://www.google.com/maps/search/?api=1&query=Rocky+River+Nature+Center+24000+Valley+Pkwy+North+Olmsted+OH) | Cleveland Metroparks** (24000 Valley Pkwy, North Olmsted). Open daily 9:30 AM–5:00 PM, free entry — ~1.5 hrs before close: wildlife exhibits and the Dunkleosteus, the deck over the 360-million-year-old shale cliff, and the Fort Hill Stairs. The reservation's trails stay open till 11 PM if you want a short walk after the center closes.
+- **Evening — dinner in Cleveland with Lakshmi (to confirm).** Call Monday afternoon to confirm — reminder set for ~2:42 PM CT. Options: Amba (Indian, vegan shareables), Prosperity Social Club (Tremont), Aladdin's Eatery (Cleveland Heights).
+- **Late evening — Fairlawn.** Check in at the Fairfield Inn & Suites Akron Fairlawn (see Bookings) after Cleveland — the room is held, check-in is from 3:00 PM. Tuesday starts before sunrise. The two other closed sites, Garfield and Perry's Victory, are on the map as status pins (Day 1 pins 4–6) — see [Know before you go](#know-before-you-go) before improvising a detour to either.
 
 ## Day 2 — Tue Nov 24: the ranger's Cuyahoga day, then West Bloomfield {#day-2}
 
@@ -166,7 +166,7 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + the booked hotel + 
 
 - [ ] **Cuyahoga Valley National Park** — Boston Mill Visitor Center, Tue ~9:30 AM (the one stamp that anchors the trip)
 - [ ] **River Raisin National Battlefield Park** — Visitor Center, Monroe, Wed ~10:00 AM
-- [ ] ~~First Ladies NHS~~ — **not available this trip**: closed Mon–Wed in the Nov–Apr season (Thu–Sat only); exterior only if detoured to on Monday
+- [ ] ~~First Ladies NHS~~ — **not available this trip**: closed Mon–Wed in the Nov–Apr season (Thu–Sat only); no stop this trip
 - [ ] ~~James A. Garfield NHS~~ — **not available this trip**: closed Mon–Wed in the Nov–Apr season (Fri–Sun only)
 - [ ] ~~Perry's Victory & International Peace Memorial~~ — **not available this trip**: the visitor center's last 2026 day was Oct 26; it reopens in May
 
