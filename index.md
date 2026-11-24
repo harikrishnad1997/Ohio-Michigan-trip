@@ -5,8 +5,8 @@ title: Ohio & Michigan NPS Road Trip — Itinerary, Nov 23–25, 2026
 
 # Ohio & Michigan NPS Road Trip {#top}
 
-**Road-trip itinerary · Mon Nov 23 – Wed Nov 25, 2026 · Lombard / Chicago → Cuyahoga Valley → West Bloomfield → River Raisin → home for Thanksgiving**
-Five NPS sites from the map, one full ranger-planned day in Cuyahoga Valley, and a night at his aunt's in West Bloomfield on the way back. Two passport stamps are actually collectable this trip — Cuyahoga Valley and River Raisin (see [Know before you go](#know-before-you-go) for why the other three are exterior-only this week).
+**Road-trip itinerary · Mon Nov 23 – Wed Nov 25, 2026 · Lombard / Chicago → Cuyahoga Valley → West Bloomfield → home for Thanksgiving**
+Five NPS sites from the map, one full ranger-planned day in Cuyahoga Valley, and a night at his aunt's in West Bloomfield on the way back. One passport stamp is actually collectable this trip — Cuyahoga Valley (see [Know before you go](#know-before-you-go) for why the other three are exterior-only this week, and why River Raisin was dropped).
 
 <style>
 .trip-fig { margin: 14px 0; }
@@ -24,7 +24,7 @@ Five NPS sites from the map, one full ranger-planned day in Cuyahoga Valley, and
 - [Trip map — color-coded by day](#trip-map)
 - [Day 1 — Mon Nov 23: Lombard → Cleveland → Fairlawn](#day-1)
 - [Day 2 — Tue Nov 24: the ranger's Cuyahoga day, then West Bloomfield](#day-2)
-- [Day 3 — Wed Nov 25: River Raisin, then home](#day-3)
+- [Day 3 — Wed Nov 25: straight home](#day-3)
 - [Stamp checklist](#stamp-checklist)
 - [Know before you go](#know-before-you-go)
 - [Packing checklist](#packing-checklist)
@@ -32,13 +32,13 @@ Five NPS sites from the map, one full ranger-planned day in Cuyahoga Valley, and
 ## Bookings {#bookings}
 
 ### 🚗 Rental car — BOOKED: Enterprise, Lombard
-[Enterprise Rent-A-Car, Lombard on Google Maps](https://www.google.com/maps/search/?api=1&query=Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL) — 920 E Roosevelt Rd, Lombard, IL 60148 · (630) 916-7700. It's also on the trip map below (Day 1 pin 1; the return is Day 3 pin 2).
+[Enterprise Rent-A-Car, Lombard on Google Maps](https://www.google.com/maps/search/?api=1&query=Enterprise+Rent-A-Car+920+E+Roosevelt+Rd+Lombard+IL) — 920 E Roosevelt Rd, Lombard, IL 60148 · (630) 916-7700. It's also on the trip map below (Day 1 pin 1; the return is Day 3 pin 1).
 - Pickup **Mon Nov 23, 2026 @ 9:00 AM**
 - Return **Wed Nov 25, 2026 @ 6:00 PM**, same location
 - Acura Integra or similar, unlimited mileage
 - **$143.42 total**
 - Confirmation number is in the email, not on this public page
-- **⚠️ The Lombard branch closes at 6:00 PM on Wednesday** — the return is right at closing. Day 3 is timed to land in Lombard by ~4:00–4:30 PM CT with buffer; if the day runs late, the after-hours key-drop is the fallback, and photo-documenting the drop (odometer + fuel dash photo, exterior walk-around) is the proof of condition and time.
+- **⚠️ The Lombard branch closes at 6:00 PM on Wednesday** — the return is right at closing. Day 3 is timed to land in Lombard by ~1:00–2:00 PM CT, hours ahead of closing; if the day runs late, the after-hours key-drop is the fallback, and photo-documenting the drop (odometer + fuel dash photo, exterior walk-around) is the proof of condition and time.
 
 ### 🏨 Hotel — BOOKED: Fairfield Inn & Suites Akron Fairlawn, Mon Nov 23
 Only Monday night is a hotel night — Tuesday night is at his aunt's in West Bloomfield. Booked by Rajashree via Hotels.com (forwarded Nov 15, 2026):
@@ -50,7 +50,7 @@ Only Monday night is a hotel night — Tuesday night is at his aunt's in West Bl
 - Fairlawn is on the Akron side, southwest of the park — ~14 mins to Beaver Marsh for Tuesday's 7:24 AM sunrise start (6 mi).
 
 ### 🏠 Tuesday night — aunt's, West Bloomfield, MI
-Overnight at his aunt's in West Bloomfield, MI on **Tue Nov 24** (address kept off this public page — the map pin is the township, not the house). Wednesday morning runs south from there to River Raisin before the drive home.
+Overnight at his aunt's in West Bloomfield, MI on **Tue Nov 24** (address kept off this public page — the map pin is the township, not the house). Wednesday morning is the drive straight home from there — River Raisin was dropped from the plan.
 
 ## Weather in the valley — live forecast {#weather}
 
@@ -124,7 +124,7 @@ Backup: the [National Weather Service forecast for Peninsula](https://forecast.w
 
 ## Trip map — color-coded by day {#trip-map}
 
-Every stop on one map: 🔵 **Day 1** (Mon, the drive east + Rocky River Nature Center in Cleveland + the booked hotel + the two closed sites' status pins) · 🟠 **Day 2** (Tue, the ranger's Cuyahoga day + the night drive to West Bloomfield) · 🟢 **Day 3** (Wed, River Raisin + the drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
+Every stop on one map: 🔵 **Day 1** (Mon, the drive east + Rocky River Nature Center in Cleveland + the booked hotel + the two closed sites' status pins) · 🟠 **Day 2** (Tue, the ranger's Cuyahoga day + the night drive to West Bloomfield) · 🟢 **Day 3** (Wed, the drive home). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="Ohio and Michigan road trip map — stops color-coded by day"></iframe>
 
@@ -152,20 +152,18 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + Rocky River Nature 
 - **~3:30 PM — [Ledges Trail](https://www.google.com/maps/search/?api=1&query=Ledges+Trailhead+Cuyahoga+Valley+National+Park)** (405 Truxell Rd) — start the **2.2 mi loop** ([AllTrails](https://www.alltrails.com/trail/us/ohio/cuyahoga-valley-ledges-trail)) in late afternoon and time **Ledges Overlook for sunset at 5:00 PM**: a west-facing rocky clearing, one of the best sunset views in the park. **Bring a headlamp** — the Ledges area closes at dusk and the walk back to the car will be in twilight.
 - **~5:45–6:00 PM — Drive to West Bloomfield, MI.** Ledges → West Bloomfield is **195 mi / 2 hrs 58 mins (Google Maps, via the Ohio Turnpike / I-75 / I-275)**. Arrive at his aunt's ~8:45–9:00 PM ET. Night there.
 
-## Day 3 — Wed Nov 25: River Raisin, then home {#day-3}
+## Day 3 — Wed Nov 25: straight home {#day-3}
 
-*One stamp stop, then a straight run home in time for Thanksgiving — and for the 6:00 PM Lombard return.*
+*Straight home in time for Thanksgiving — and for the 6:00 PM Lombard return. River Raisin was dropped from the plan, so there's no Monroe detour and no second stamp this trip.*
 
-- **~8:30–9:00 AM — Leave West Bloomfield** and drive ~1 hr south to Monroe, MI.
-- **~10:00 AM — [River Raisin National Battlefield Park](https://www.google.com/maps/search/?api=1&query=River+Raisin+National+Battlefield+Park+Monroe+MI)** (333 N Dixie Hwy, Monroe). Visitor center open daily (~10 AM–5 PM in winter) — **passport stamp here**, plus the War of 1812 battlefield story ("Remember the Raisin"). Budget ~1–1.5 hrs.
-- **~11:30 AM ET — Leave Monroe for home.** Monroe → Lombard is **285 mi / 4 hrs 15 mins (Google Maps, via the Ohio Turnpike / Indiana Toll Road)**, and you gain the hour back crossing into Central Time — that puts Lombard at ~2:45 PM CT before stops; with a fuel / food stop, plan on **~3:30–4:00 PM CT**.
+- **~9:00 AM — Leave West Bloomfield for home.** West Bloomfield → Lombard is **291 mi / ~4 hrs 10 mins–5 hrs 20 mins typical (Google Maps, via I-94 W / I-294 N)** — Thanksgiving Eve traffic is the wide range — and you gain the hour back crossing into Central Time, so Lombard is **~12:10–1:20 PM CT**; with a fuel / food stop, plan on **~1:00–2:00 PM CT**.
 - **By 6:00 PM CT — Return: Enterprise, Lombard.** The branch closes at 6:00 PM, so the timed arrival above is the plan, not the after-hours key-drop. If traffic eats the buffer and the key-drop becomes necessary, photo-document the drop (dash, walk-around, car in its spot).
 - **Evening — home for Thanksgiving.** 🦃
 
 ## Stamp checklist {#stamp-checklist}
 
 - [ ] **Cuyahoga Valley National Park** — Boston Mill Visitor Center, Tue ~9:30 AM (the one stamp that anchors the trip)
-- [ ] **River Raisin National Battlefield Park** — Visitor Center, Monroe, Wed ~10:00 AM
+- [ ] ~~River Raisin National Battlefield Park~~ — **dropped from the plan**: the Wednesday Monroe detour was cut, so no stamp this trip
 - [ ] ~~First Ladies NHS~~ — **not available this trip**: closed Mon–Wed in the Nov–Apr season (Thu–Sat only); no stop this trip
 - [ ] ~~James A. Garfield NHS~~ — **not available this trip**: closed Mon–Wed in the Nov–Apr season (Fri–Sun only)
 - [ ] ~~Perry's Victory & International Peace Memorial~~ — **not available this trip**: the visitor center's last 2026 day was Oct 26; it reopens in May
@@ -179,11 +177,11 @@ Every stop on one map: 🔵 **Day 1** (Mon, the drive east + Rocky River Nature 
 - **Brandywine Falls and the Ledges close dusk–dawn.** The sunset plan works because you're walking out at dusk, not starting after it — headlamp in the pack.
 - **Towpath note:** the Boston Trailhead → Lock 29 Towpath closure ran Aug 24–Nov 20, 2026, so it's over before this trip — the Towpath is whole again for the Beaver Marsh and Peninsula walks.
 - **Time zones:** Ohio and Michigan are Eastern; home is Central. Monday's drive "loses" an hour, Wednesday's drive home gains it back — the Day 3 timing already accounts for it.
-- **Wednesday is Thanksgiving Eve** — the busiest driving afternoon of the year. The plan's ~2–2.5 hr buffer into the 6:00 PM Lombard return is there for exactly that; don't spend it in Monroe.
+- **Wednesday is Thanksgiving Eve** — the busiest driving afternoon of the year. The plan now lands in Lombard by ~1:00–2:00 PM CT, leaving a ~4 hr buffer into the 6:00 PM return — that buffer is there for exactly that traffic.
 
 ## Packing checklist {#packing-checklist}
 
-- [ ] Passport To Your National Parks Collector's Edition book (Cuyahoga + River Raisin stamps)
+- [ ] Passport To Your National Parks Collector's Edition book (Cuyahoga stamp)
 - [ ] Hiking boots (Hoka Transport GTX / Merrell high-ankle) — Ledges rock can be slick in late November
 - [ ] Headlamp — the walk out from Ledges Overlook after sunset
 - [ ] Layers for a 7 AM marsh sunrise and a 5 PM overlook sunset (late-November Ohio: expect 30s–40s °F, estimate)
